@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div>这是根组件</div>
 </template>
 
 <script>
